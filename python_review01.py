@@ -17,7 +17,8 @@ Multiline comment example
 # variable: a place we store values
 name = "Mirko"  # String named "Mirko"
 # print out variable
-print(name)  #output: Derek
+###  Git comment change test (10/6/2015)
+print(name)  #output: Mirko
 name = 15
 print(name)  #output: 15
 # Variable has to start with a letter then it can have
